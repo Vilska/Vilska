@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="center">A passionate developer & cyber security hobbyist!</h4>
+<h4 align="center">A passionate developer from Finland!</h4>
 
 ###
 
